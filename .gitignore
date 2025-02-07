@@ -1,0 +1,10 @@
+*.sql
+*.csv
+*.tsv
+*.db
+
+.DS_Store
+
+#anaconda projects folder
+anaconda_projects/
+data/
